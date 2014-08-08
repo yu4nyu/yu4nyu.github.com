@@ -1,0 +1,41 @@
+---
+layout: pageminimal
+title: Tag Index
+permalink: /tags/index.html
+description: "An archive of posts sorted by tag."
+---
+{% assign tags_max = 0 %}
+{% for tag in site.tags %}
+    {% if tag[1].size > tags_max %}
+        {% assign tags_max = tag[1].size %}
+    {% endif %}
+{% endfor %}
+
+<ul class="tag-box inline">
+{% for i in (1..tags_max) reversed %}
+    {% for tag in site.tags %}
+        {% if tag[1].size == i %}
+        <li>
+            <a href="#{{ tag[0] }}">{{ tag[0] | capitalize }} <span>{{ tag[1].size }}</span></a>
+        </li>
+        {% endif %}
+    {% endfor %}
+{% endfor %}
+</ul>
+
+{% for i in (1..tags_max) reversed %}
+	{% for tag in site.tags %}
+		{% if tag[1].size == i %}
+		<h2 id="{{ tag[0] }}">{{ tag[0] | capitalize }}</h2>
+		<ul class="post-list">
+		{% assign pages_list = tag[1] %}
+		{% for post in pages_list %}
+			{% if post.title != null %}
+			{% if group == null or group == post.group %}
+			<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></a></li>
+			{% endif %}
+			{% endif %}
+		{% endfor %}
+        {% endif %}
+    {% endfor %}
+{% endfor %}
