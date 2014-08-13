@@ -18,10 +18,10 @@ links:
   - title: 首页 Home
     url: /
     external: false
-  - title: 分类 Categories
-    url: /categories
-  - title: 关于 About
-    url: /about
+  #- title: 分类 Categories
+  #  url: /categories
+  #- title: 关于 About
+  #  url: /about
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    Europe/Paris
