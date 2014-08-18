@@ -1,7 +1,7 @@
 title:            袁宇 YUAN Yu
-description:      "自强不息,厚德载物"
+description:      "自强不息,厚德载物<br>Cogito ergo sum"
 logo:             logo.png
-theme:				blue
+theme:            blue
 # Change url to your domain. Leave localhost server or blank when working locally.
 # or use the hint from http://jekyllrb.com/docs/github-pages/ to keep this the same 
 # whether working locally or remotely. Start Jekyll with: jekyll serve --baseurl ''
