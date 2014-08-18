@@ -18,8 +18,8 @@ links:
   - title: 首页 Home
     url: /
     external: false
-  #- title: 分类 Categories
-  #  url: /categories
+  - title: 分类 Categories
+    url: /categories
   #- title: 关于 About
   #  url: /about
 
