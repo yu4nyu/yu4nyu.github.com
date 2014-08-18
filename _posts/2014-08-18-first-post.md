@@ -3,6 +3,6 @@ layout: post
 title: First Post
 category: Test
 ---
+This website is under construction...
 
-This site is under construction...
 Please stay tuned.
