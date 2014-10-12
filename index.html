@@ -30,7 +30,7 @@ tags: [engineering, blog]
                 </h3>
             </header>
             <section class="summer-post-excerpt">
-                <p>{{ post.content | strip_html | truncatewords:40 }}</p>
+                <p>{{ post.content | strip_html | truncate:120 }}</p>
             </section>
             
                 <div class="summer-index-post-tags">
@@ -82,7 +82,7 @@ tags: [engineering, blog]
                 </h3>
             </header>
             <section class="summer-post-excerpt">
-                <p>{{ post.content | strip_html | truncatewords:100 }}</p>
+                <p>{{ post.content | strip_html | truncate:300 }}</p>
             </section>
             
                 <div class="summer-index-post-tags">
