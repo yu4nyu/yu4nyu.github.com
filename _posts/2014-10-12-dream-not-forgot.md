@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 未曾忘记的梦想
-category: 生活随想
+category: 随想
 ---
 
 致曾经年少过的青年们
