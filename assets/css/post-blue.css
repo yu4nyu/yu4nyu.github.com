@@ -411,18 +411,18 @@ html, body, .summer-post-container, .summer-post-header {
     @media only screen and (min-width: 40.063em) {
       .summer-page-title h1,
       .summer-post-title-simple h1 {
-        font-size: 4.375rem;
+        font-size: 2.375rem;
         padding-top: 5.625rem;
         padding-bottom: 5.625rem; } }
     @media only screen and (min-width: 70em) {
       .summer-page-title h1,
       .summer-post-title-simple h1 {
-        padding-top: 6.875rem;
+        padding-top: 4.875rem;
         padding-bottom: 6.875rem; } }
     @media only screen and (min-width: 90em) {
       .summer-page-title h1,
       .summer-post-title-simple h1 {
-        font-size: 5.3125rem;
+        font-size: 3.3125rem;
         padding-top: 8.125rem;
         padding-bottom: 8.125rem; } }
   .summer-page-title .summer-post-meta-simple,
