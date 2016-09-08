@@ -15,7 +15,7 @@ owner:
   name:           YUAN Yu
   github:         yuanyu0714
 
-# Links to include in header navigation
+# Links to include in header navigation.
 # For external links add external: true
 links:
   - title: 首页 Home
