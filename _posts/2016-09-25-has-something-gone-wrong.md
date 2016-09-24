@@ -26,8 +26,8 @@ Problems are not stop signs, they are guidelines. —— Robert H. Schuller
 为什么总想要拿起画笔  
 去画出你当时的模样
 
-我的脚出问题了吗
-为什么总想要奔跑着
+我的脚出问题了吗  
+为什么总想要奔跑着  
 去到你的身旁
 
 我的心出问题了吗  
