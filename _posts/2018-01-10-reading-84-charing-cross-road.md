@@ -25,7 +25,7 @@ Yes, we are all very much alive and kicking…
 
 >I have just come across the letter you wrote to Mr. Doel on the 30th of September last, and it is with great regret that I have to tell you that he passed away on Sunday the 22nd of December, the funeral took place last week on Wednesday the 1st of January.
 
-翻译：我刚刚偶然看到您上个9月30号写给Doel先生的信，然后很抱歉我不得不告诉您，它已经在12月22号周日的时候去世了，1月1号上周三的时候举行了葬礼。
+翻译：我刚刚偶然看到您上个9月30号写给Doel先生的信，然后很抱歉我不得不告诉您，他已经在12月22号周日的时候去世了，1月1号上周三的时候举行了葬礼。
 
 >The blessed man who sold me all my books died a few months ago. And Mr. Marks who owed the shop is dead. But Marks & Co. is still there. If you happen to pass by 84 Charing Cross Road, kiss it for me? I owe it so much.
 
