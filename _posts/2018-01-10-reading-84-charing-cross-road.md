@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 《84, CHARING CROSS ROAD》读后感
+title: 读《84, CHARING CROSS ROAD》
 category: 读后感
 ---
 这是2018年读的第002本书，HELENE HANFF 著
