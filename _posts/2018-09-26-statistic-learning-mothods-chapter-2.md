@@ -71,6 +71,6 @@ category: 统计学习方法
 
 ### 参考材料
 1. 统计学习方法(2)——感知机原始形式、对偶形式及Python实现<br/>
-https://blog.csdn.net/winter_evening/article/details/70196040
+<https://blog.csdn.net/winter_evening/article/details/70196040/>
 2. Gram矩阵<br/>
-https://blog.csdn.net/wangyang20170901/article/details/79037867
+<https://blog.csdn.net/wangyang20170901/article/details/79037867/>
