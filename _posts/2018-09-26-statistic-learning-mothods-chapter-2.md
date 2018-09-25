@@ -31,18 +31,18 @@ category: 统计学习方法
 
 ##### 感知机学习算法的对偶形式
 
-![损失函数]({{site.url}}/images/figures/统计学习方法2-3.png)
+![对偶形式]({{site.url}}/images/figures/统计学习方法2-3.png)
 
 - 其中的 ni 代表对 i 个样本的学习次数。
 <br/><br/>
 
 ##### 算法步骤
 
-![损失函数]({{site.url}}/images/figures/统计学习方法2-4.png)
+![算法步骤]({{site.url}}/images/figures/统计学习方法2-4.png)
 
 ##### Gram 矩阵
 
-![损失函数]({{site.url}}/images/figures/统计学习方法2-5.png)
+![Gram 矩阵]({{site.url}}/images/figures/统计学习方法2-5.png)
 
 
 
