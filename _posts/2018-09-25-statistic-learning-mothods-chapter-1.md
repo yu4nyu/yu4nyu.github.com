@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 统计学习方法概论
+title: 《统计学习方法》—— 统计学习方法概论
 category: 统计学习方法
 ---
 
