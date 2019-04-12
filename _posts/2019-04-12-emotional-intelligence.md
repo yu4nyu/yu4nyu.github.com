@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 读《Emotional Intelligence: Why it can matter more than IQ》
+title: 读《Emotional Intelligence：Why it can matter more than IQ》
 category: 读后感
 ---
 这是2019年读的第020本书，Daniel Goleman 著，累计用时16小时
