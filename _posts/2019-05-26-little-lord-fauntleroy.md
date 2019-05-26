@@ -3,7 +3,7 @@ layout: post
 title: 读《Little Lord Fauntleroy》
 category: 读后感
 ---
-这是2019年读的第025本书，[美]弗朗西斯.霍奇森.伯内特（Frances Hodgson Burnett） 著
+这是2019年读的第025本书，[美]弗朗西斯.霍奇森.伯内特（Frances Hodgson Burnett） 著，累计用时6.5小时+
 
 >“Somethin' in the manner of a museum?” he said to Fauntleroy, when he was led into the great, beautiful room.<br/>
 “N—no—!” said Fauntleroy, rather doubtfully. “I don't THINK it's a museum. My grandfather says these are my ancestors.”<br/>
