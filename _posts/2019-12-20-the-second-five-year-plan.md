@@ -106,7 +106,6 @@ category: 随想
 <div align="center">
     个人微信（ID：Jujube0714）
 </div>
-<br/>
 <div align="center">
     <img alt="个人微信" src="{{ site.url }}/images/wechat-qrcode2.jpg" width="200px" height="200px"/>
 </div>
